@@ -4,7 +4,8 @@ Week 1: Excel, Pivot Tables and Statistics
 Fred Castrow III
 July 22, 2019
 
-Data Analytics Boot Camp: Homework Assignment #1, Excel
+<center><b>Data Analytics Boot Camp: Homework Assignment #1, Excel</b></center>
+
 1.	Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?<br>
 a.	Plays are very popular in terms of number of campaigns. (32% of all campaigns)<br>
 b.	Goals above $45K tend to be less successful. (21% percentage successful)<br>
